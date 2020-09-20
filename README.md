@@ -22,6 +22,11 @@
   - 데이터셋 :
   - 내용 : 고양시 인구 증가와 대중교통 이용현황을 기반으로 고양시 공공 자전거 스테이션 접근성 개선을 위한 위치 재배치
 
+![고양1](https://user-images.githubusercontent.com/69830161/93714884-9b79a080-fba0-11ea-951c-e2b5e617f70d.png)
+![고양1_결과](https://user-images.githubusercontent.com/69830161/93714901-bba95f80-fba0-11ea-921a-679cfe593806.png)
+![고양2](https://user-images.githubusercontent.com/69830161/93714958-104cda80-fba1-11ea-9434-c939c404f568.png)
+![고양2_결과](https://user-images.githubusercontent.com/69830161/93714964-15aa2500-fba1-11ea-9e19-773dcd4f3d1f.png)
+![고양3](https://user-images.githubusercontent.com/69830161/93714969-1e026000-fba1-11ea-8461-a2cfad2fed0c.png)
 
 
 ### 대회 사이트
